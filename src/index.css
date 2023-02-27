@@ -1,0 +1,30 @@
+:root {
+  --primary-color: #ff6347;
+  --primary-color-hover: rgb(214, 84, 61);
+
+  --prime-white-color: #ffffff;
+  --homepage-h1-color: rgb(0, 0, 0, 0.7);
+  --backgroudColor: rgb(245, 245, 240);
+  --confirmPageSpanColor: #575757;
+
+  --primary-font-family: "Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif";
+  --Roboto-font-family: "Roboto";
+  --LucidaSans-font-family: "Lucida Sans";
+}
+
+/* 
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
